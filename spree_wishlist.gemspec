@@ -1,10 +1,12 @@
+# encoding: utf-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_wishlist'
-  s.version     = '1.1'
+  s.version     = '1.2'
   s.summary     = 'Add wishlists to Spree'
-  #s.description = 'Add (optional) gem description here'
+  s.homepage    = 'https://github.com/spree/spree_wishlist'
   s.required_ruby_version = '>= 1.8.7'
+
   s.author                = 'Roman Smirnov'
   s.required_ruby_version = '>= 1.8.7'
   s.rubygems_version      = '1.3.6'
